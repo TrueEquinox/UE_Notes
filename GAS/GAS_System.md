@@ -1,5 +1,9 @@
 # Getting Started
 
+## Add Plugin
+
+Open Unreal Editor, then go to Edit > Plugins and search for "Gameplay Abilities" plugin. Enable it and restart the editor.
+
 ## Initialize Character
 
 Go into your game's Build.cs file and add:
