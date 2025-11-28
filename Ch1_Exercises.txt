@@ -1,0 +1,34 @@
+Exercises (Chapter 1)
+
+1. 	a: (-2.5, 3)
+	b: (1, 2)
+	c: (2.5, 2)
+	d: (-1, -1)
+	e: (0, 0)
+	f: (2, -0.5)
+	g: (-0.5, -1.5)
+	h: (0, -2)
+	i: (-3, -2)
+
+2.	a: (1, 2, 4)
+	b: (-3, -3, -5)
+	c: (-3, 6, 2.5)
+	d: (3, 0, -1)
+	e: (0, 0, 0)
+	f: (0, 0, 3)
+	g: (-3.5, 4, 0)
+	h: (5, -5, -1.5)
+	i: (4, 1, 5)
+
+3.		NORTH		EAST 		UP		HANDED
+	1:	+z			+x			+y		left
+	2:	+z			-x			+y		right
+	3:	-x			+z			+y		left
+	4: 	-x			-z			+y		right
+	5:	-z			-x			+y		left
+	6:	-z			+x			+y		right
+	7: 	+x			-z			+y		left
+	8:	+x			+z			+y		right
+
+	
+	
