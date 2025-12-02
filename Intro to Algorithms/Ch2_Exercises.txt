@@ -1,0 +1,13 @@
+Chapter 2 Exercises
+
+1.2-1
+
+	Google Translate, it takes input from the user in one language and converts it to another language.
+
+1.2-2
+
+	n >= 7
+
+1.2-3
+	
+	~ 0.8

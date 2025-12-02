@@ -1,0 +1,23 @@
+Chapter 1 Exercises
+
+1.1-1
+	(a): I have a list of books that I want in alphabetical order so I can easily find specific books in the list.
+	(b): I have a map of a multistory building. I need to find the shortest path from my current position to any arbitrary position in the building.
+
+
+1.1-2
+	Memory and Storage
+
+1.1-3
+	Vectors. Vectors are good for doing calculations one multiple numbers at once and for determining position in coordinate systems. I can't think of any weaknesses vectors have.
+
+1.1-4
+	They are similar because they are both trying to find the shortest path but the shortest path algorithm is only interested in the shortest path between TWO points, whereas the traveling salesperson algorithm is interested in the shortest path through an arbitrary set of points and back to the starting point.
+
+1.1-5
+	Best solution problem: Given a list of products, find the product with the lowest value.
+	Approximate solution problem: Given a group of people, and a number of cookies find out how to split up the cookies so everyone has close to the same amount.
+
+1.1-6
+	Entire input available: You have a set of documents, construct a list of documents that contain a given string.
+	Input available overtime: You have a set of products, products can be added to the set at any time, sort the products based on profitability (price - cost to create), and store/update a list of the sorted products.
